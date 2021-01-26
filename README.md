@@ -1,6 +1,6 @@
  **Hello, World!**
  ===========
-**This is my project to help me get started with react ! **
+**This is my project to help me get started with react!**
 ======================================================
 My projects:
 ============
