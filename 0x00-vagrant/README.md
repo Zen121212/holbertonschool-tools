@@ -1,2 +1,2 @@
- **The uname command**
+ **uname command**
  ===========
